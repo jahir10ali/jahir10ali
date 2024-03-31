@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Jahir
-### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently studying and exploring areas such as [Multi-dimensional Data Processing](https://www.degruyter.com/document/doi/10.1515/comp-2022-0251/html?lang=en) and [Neurosymbolic AI](https://medium.com/swlh/neurosymbolic-ai-to-give-us-machines-with-true-common-sense-9c133b78ab13)<br>
+### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains and delving into ethical hacking areas such as exploit development.<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahir10ali) 
