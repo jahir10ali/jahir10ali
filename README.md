@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Jahir
-### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains and delving into ethical hacking areas such as exploit development.<br>
+### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains and delving into ethical hacking areas including exploit development.<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahir10ali) 
