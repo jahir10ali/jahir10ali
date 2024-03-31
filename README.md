@@ -10,8 +10,11 @@
 [![Bash](https://skillicons.dev/icons?i=bash)]() &nbsp; &nbsp;
 [![Powershell](https://skillicons.dev/icons?i=powershell&theme=light)]() &nbsp; &nbsp;
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) &nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;
+
 
 # 🌐 Profiles & Platforms
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jahir10ali) &nbsp; &nbsp;
