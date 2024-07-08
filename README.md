@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Jahir
-### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains and delving into ethical hacking areas including exploit development.<br>
+### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains such as computer vision applications in healthcare, transport, and agriculture.<br>
 
 # 💻 Technologies Familiar With
 [![Python](https://skillicons.dev/icons?i=python)]() &nbsp; &nbsp;
