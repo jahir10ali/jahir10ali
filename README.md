@@ -4,6 +4,8 @@
 # 💻 Technologies Familiar With
 [![Python](https://skillicons.dev/icons?i=python)]() &nbsp; &nbsp;
 [![Java](https://skillicons.dev/icons?i=java&theme=light)]() &nbsp; &nbsp;
+[![C++](https://skillicons.dev/icons?i=cpp&theme=light)]() &nbsp; &nbsp;
+[![C](https://skillicons.dev/icons?i=c&theme=light)]() &nbsp; &nbsp;
 [![HTML](https://skillicons.dev/icons?i=html&theme=light)]() &nbsp; &nbsp;
 [![CSS](https://skillicons.dev/icons?i=css&theme=light)]() &nbsp; &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)]() &nbsp; &nbsp;
