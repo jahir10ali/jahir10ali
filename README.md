@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Jahir
-### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br><br>- 👩🏻‍💻 Currently exploring machine learning applications beyond traditional domains.<br>
+### - 🎓 Pursuing Computer Science at Royal Holloway, University of London, United Kingdom.<br>
 
 # 💻 Technologies Familiar With
 [![Python](https://skillicons.dev/icons?i=python)]() &nbsp; &nbsp;
@@ -9,8 +9,10 @@
 [![HTML](https://skillicons.dev/icons?i=html&theme=light)]() &nbsp; &nbsp;
 [![CSS](https://skillicons.dev/icons?i=css&theme=light)]() &nbsp; &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)]() &nbsp; &nbsp;
+[![SQL](https://skillicons.dev/icons?i=mysql&theme=light)]() &nbsp; &nbsp;
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)]() &nbsp; &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)]() &nbsp; &nbsp;
+[![Maven](https://skillicons.dev/icons?i=maven&theme=light)]() &nbsp; &nbsp;
 [![Kali](https://skillicons.dev/icons?i=kali)]() &nbsp; &nbsp;
 [![Bash](https://skillicons.dev/icons?i=bash)]() &nbsp; &nbsp;
 [![Powershell](https://skillicons.dev/icons?i=powershell&theme=light)]() &nbsp; &nbsp;
@@ -28,12 +30,8 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jahir10ali) &nbsp; &nbsp;
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jahir10ali) &nbsp; &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jahir10ali) &nbsp; &nbsp;
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://stackoverflow.com/users/19002418/jahir10ali) &nbsp; &nbsp;
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/jahir10ali/) &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jahir10ali) &nbsp;
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/jahir10ali) &nbsp;
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@jahir10ali) &nbsp;
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jahir10ali&show_icons=true&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
