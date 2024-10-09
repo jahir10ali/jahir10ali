@@ -27,13 +27,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;
 
 
-# 🌐 Profiles & Platforms
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jahir10ali) &nbsp; &nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jahir10ali) &nbsp; &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jahir10ali) &nbsp; &nbsp;
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/jahir10ali/) &nbsp;
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jahir10ali&show_icons=true&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=jahir10ali&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
