@@ -10,6 +10,7 @@
 [![CSS](https://skillicons.dev/icons?i=css&theme=light)]() &nbsp; &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)]() &nbsp; &nbsp;
 [![SQL](https://skillicons.dev/icons?i=mysql&theme=light)]() &nbsp; &nbsp;
+
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)]() &nbsp; &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)]() &nbsp; &nbsp;
 [![Maven](https://skillicons.dev/icons?i=maven&theme=light)]() &nbsp; &nbsp;
